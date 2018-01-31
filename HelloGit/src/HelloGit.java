@@ -13,7 +13,7 @@ public class HelloGit {
 		//Commented now for testing.
 		System.out.println("Hello Git ..!!!");
 		System.out.println("Modififed now...!!!");
-		System.out.println("Changes ...");//shan changed now
+		System.out.println("Changes ...");//shan changed now...
 	}
 	
 	void meth()
